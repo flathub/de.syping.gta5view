@@ -1,6 +1,6 @@
 app-id: de.syping.gta5view
 runtime: org.kde.Platform
-runtime-version: '5.15-21.08'
+runtime-version: '5.15-22.08'
 sdk: org.kde.Sdk
 command: gta5view
 finish-args:
@@ -18,8 +18,8 @@ modules:
       - -DGTA5VIEW_BUILDCODE=Flathub
       - -DGTA5VIEW_BUILDTYPE=Release
       - -DWITH_DONATE=ON
-      - -DDONATE_ADDRESSES=btc:187NSQSPzdMpQDGhxZAuw4AhZ7LgoAPV7D,eth:0x19d71DfCa86104d37a13D3c5d419936421CDC569,ltc:LKr6yvBoMMGmcxViS8Kc1A2sDjVSWTXn4m,xmr:43TB3ZMP5nk1pu5EQXRGPzdTKvmFEBGgccX3tNhRknLLiUYQ7z7dNedVHEA6WrWdByZv1isvFmjSGhCF7ddx3eRxFdm5Fzz,zec:t1SpfDKj6qGZFwyRdzJBw9w2PTj8rUixZGh
+      - -DDONATE_ADDRESSES=btc:187NSQSPzdMpQDGhxZAuw4AhZ7LgoAPV7D,eth:0x19d71DfCa86104d37a13D3c5d419936421CDC569,ltc:LKr6yvBoMMGmcxViS8Kc1A2sDjVSWTXn4m,xmr:43TB3ZMP5nk1pu5EQXRGPzdTKvmFEBGgccX3tNhRknLLiUYQ7z7dNedVHEA6WrWdByZv1isvFmjSGhCF7ddx3eRxFdm5Fzz
     sources:
       - type: git
         url: https://github.com/SyDevTeam/gta5view.git
-        commit: 3cd6cc903db8808dfb219b1ab9e9bf94846a13dd
+        commit: 5e6c4e6ad10733e980691d58cec3323c57c81849
