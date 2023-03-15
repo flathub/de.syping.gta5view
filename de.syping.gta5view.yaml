@@ -22,4 +22,4 @@ modules:
     sources:
       - type: git
         url: https://github.com/SyDevTeam/gta5view.git
-        commit: 13b6d614fc0c5e94088df11b1f57cdbef79ac40e
+        commit: 20de3627d563a70924304408949914d64126ffb3
