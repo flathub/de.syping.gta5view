@@ -1,6 +1,6 @@
 app-id: de.syping.gta5view
 runtime: org.kde.Platform
-runtime-version: '5.15-22.08'
+runtime-version: '6.6'
 sdk: org.kde.Sdk
 command: gta5view
 finish-args:
